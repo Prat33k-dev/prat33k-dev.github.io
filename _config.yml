@@ -12,25 +12,21 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
+    - text: Projects
       url: /blog
-    - text: Gallery
+    - text: Experience
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: profile.jpg
+author: Pratik Bhujbal
+author_bio: Hi, my name is Pratik bhujbal
+author_email: "pbhujbal@umd.edu"
+author_location: USA
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
