@@ -22,7 +22,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile1.jpg
+author_logo: profile1.png
 author: Pratik Bhujbal
 author_bio: Hi, my name is Pratik bhujbal
 author_email: "pbhujbal@umd.edu"
@@ -70,14 +70,6 @@ author_project_details:
 github_username:  prat33k-dev
 linkedin_username: pratikbhujbal
 instagram_username: pratikbhujbal_
-
-#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
-
-# disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
-
-# wakatime username (coding activity)
-wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
