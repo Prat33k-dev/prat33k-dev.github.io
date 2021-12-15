@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Roboticist
+subtitle: Portfolio Site
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -22,7 +22,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile1.png
+author_logo: profile1.jpeg
 author: Pratik Bhujbal
 author_bio: Hi, my name is Pratik bhujbal
 author_email: "pbhujbal@umd.edu"
