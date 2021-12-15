@@ -22,7 +22,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.jpeg
+author_logo: profile.jpg
 author: Pratik Bhujbal
 author_bio: Hi, my name is Pratik bhujbal
 author_email: "pbhujbal@umd.edu"
