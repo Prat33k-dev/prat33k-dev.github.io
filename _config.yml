@@ -27,7 +27,7 @@ author: Pratik Bhujbal
 author_bio: Hi, my name is Pratik bhujbal
 author_email: "pbhujbal@umd.edu"
 author_location: USA
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -67,16 +67,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+github_username:  prat33k-dev
+linkedin_username: pratikbhujbal
+instagram_username: pratikbhujbal_
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
