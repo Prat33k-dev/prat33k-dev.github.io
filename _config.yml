@@ -150,7 +150,7 @@ jekyll_admin:
   #   - staticfiles
   #   - datafiles
   #   - configuration
-  homepage: "posts"
+  # homepage: "posts"
 
 
 # Exclude from processing.
