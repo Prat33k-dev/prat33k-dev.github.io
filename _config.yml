@@ -51,14 +51,14 @@ author_education_details:
                 college_name: University Of Marryland
                 college_url: https://https://www.umd.edu/
                 college_degree: Robotics Engineering
-                description: Master of Engineering
+                description: Master of Engineering [2021 - 2023 (Expected)]
                 visibility: true
 
               - college_logo: srm.png
                 college_name: SRM Institute of Science and Technology
                 college_url: https://www.srmist.edu.in/
                 college_degree: Mechatronics Engineering
-                description: Bachelor of Technology
+                description: Bachelor of Technology [2016 - 2020]
                 visibility: true
 
 # Projects
