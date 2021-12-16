@@ -4,7 +4,7 @@ title:  "Faby: The Telepresence robot"
 summary: "(Path planning, Navigation, C++, ROS, Python, Gazebo)"
 author: Pratik Bhujbal
 date: '2020-12-01 1:35:23 +0530'
-category: ['Pratik']
+category: ['Mobile Robot']
 tags: jekyll
 thumbnail: /assets/img/posts/faby.jpg
 # keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
