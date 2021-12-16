@@ -1,4 +1,4 @@
-title: Roboticist
+title: Pratik Bhujbal
 subtitle: Portfolio Site
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -89,9 +89,9 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details: fasle
 
 # pagination of posts
 paginate: 4
