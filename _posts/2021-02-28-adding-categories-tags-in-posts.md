@@ -19,7 +19,7 @@ My work includes,
 - Scripts for odometry data and motion control, Sensor data acquisition and Motion control algorithm.
 - Circuit designs, power distribution system and Battery management system
 
-## Extra credits
+<!-- ## Extra credits
 <p align="left">
   <img  height="300"  width="500" src="Drive_render.jpg">
   <img  height="300"   width="400" src="testing.jpg">
@@ -28,4 +28,4 @@ My work includes,
 <p align="left">
   <img  height="400"  width="300" src="img1.png">
   <img  height="400"   width="300" src="mapping.jpg">
-</p> 
+</p>  -->
