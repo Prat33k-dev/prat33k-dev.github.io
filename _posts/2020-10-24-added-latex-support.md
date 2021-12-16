@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Added Latex Support"
-summary: Writing Equations using Latex
-author: xplor4r
-date: '2020-10-24 10:35:23 +0530'
-category: jekyll
+title:  "Food Making Robot"
+summary: "(ROS, Kinematics, C++, Gazebo)"
+author: Pratik Bhujbal
+date: '2021-12-10 10:35:23 -0500'
+category: []
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 usemathjax: true
