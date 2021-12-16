@@ -4,7 +4,7 @@ title:  "Faby: The Telepresence robot"
 summary: "(Path planning, Navigation, C++, ROS, Python, Gazebo)"
 author: xplor4r
 date: '2021-02-28 1:35:23 +0530'
-# category: ['jekyll','guides', 'sample_category']
+category: ['jekyll']
 tags: jekyll
 thumbnail: /assets/img/posts/faby.jpg
 # keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
