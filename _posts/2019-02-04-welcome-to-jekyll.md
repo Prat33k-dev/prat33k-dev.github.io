@@ -10,5 +10,4 @@ thumbnail: /assets/img/posts/none.jpg
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
 ---
-
-
+The project demonstrates a delivery robot with autonomous capabilities, static, and dynamic obstacle avoidance. The robot will navigate to a conveyor belt to receive a package and will navigate through a map to deliver it between departments inside a warehouse with multiple levels, the robot can use elevator gazebo plugin to communicate, know the state and location of the elevator, and upon reaching the desired level/ floor, update the map. Finally, on reaching the goal the package will be delivered by the robot’s conveyor belt.
