@@ -3,7 +3,7 @@ layout: post
 title:  "Faby: The Telepresence robot"
 summary: "(Path planning, Navigation, C++, ROS, Python, Gazebo)"
 author: Pratik Bhujbal
-date: '2020-12-01 1:35:23 +0530'
+date: '2020-12-01 1:35:23 -0500'
 category: ['Mobile Robot']
 # tags: jekyll
 thumbnail: /assets/img/posts/faby.jpg
