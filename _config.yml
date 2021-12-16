@@ -47,7 +47,14 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: umd.png
+                college_name: University Of Marryland
+                college_url: https://mit.org
+                college_degree: Robotics Engineering
+                description: Master of Engineering
+                visibility: true
+
+              - college_logo: umd.png
                 college_name: University Of Marryland
                 college_url: https://mit.org
                 college_degree: Robotics Engineering
