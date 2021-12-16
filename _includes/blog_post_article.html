@@ -15,7 +15,7 @@
       class="disqus-comment-count"
       data-disqus-identifier="{{ page.url }}"
     ></span>
-    <div class="post-categories">
+    {% comment %} <div class="post-categories">
       {% if post %} {% assign categories = post.categories %} {% else %} {%
       assign categories = page.categories %} {% endif %} Category : {% for
       category in categories %}
@@ -23,7 +23,7 @@
         >{{category}}</a
       >
       {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
-    </div>
+    </div> {% endcomment %}
   </div>
 
   <div class="card-body" itemprop="articleBody">
