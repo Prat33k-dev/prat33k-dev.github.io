@@ -21,15 +21,12 @@ My work includes,
 
 ## Extra credits
 
-![m](/img1.png)
+<p align="center">
+<img src="../assets/img/img1.png" width="300">
+<img src="../assets/img/mapping.jpg" width="300"> 
+<img src="../assets/img/testing.jpg" width="300" height="220">
+<img src="../assets/img/Drive_render.jpg" width="300"height="220"> 
+</p>
 
-<!-- <p align="left">
-  <img  height="300"  width="500" src="Drive_render.jpg">
-  <img  height="300"   width="400" src="testing.jpg">
-</p>   -->
-
-<!-- <p align="left">
-  <img  height="400"  width="300" src="assets/img/posts/img1.png">
-  <img  height="400"   width="300" src="mapping.jpg">
-</p>   -->
+ 
 
