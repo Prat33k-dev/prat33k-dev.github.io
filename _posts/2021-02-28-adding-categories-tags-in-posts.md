@@ -21,7 +21,7 @@ My work includes,
 
 ## Extra credits
 
-![](./assets/img/posts/img1.png)
+![m](/img1.png)
 
 <!-- <p align="left">
   <img  height="300"  width="500" src="Drive_render.jpg">
