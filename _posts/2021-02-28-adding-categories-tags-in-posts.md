@@ -21,12 +21,12 @@ My work includes,
 
 ## Extra credits
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/img/img1.png" width="300">
 <img src="../assets/img/mapping.jpg" width="300"> 
 <img src="../assets/img/testing.jpg" width="300" height="220">
 <img src="../assets/img/Drive_render.jpg" width="300"height="220"> 
-</p>
+</p> -->
 
  
 
