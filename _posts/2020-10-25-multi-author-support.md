@@ -5,7 +5,7 @@ summary: "(Python, Dart, C++) "
 author: Pratik Bhujbal
 date: '2020-07-01 1:35:23 -0500'
 category: ['Mobile Robots, Autonomous Systems, Telepresence']
-thumbnail: /assets/img/posts/moovy.jpeg
+thumbnail: /assets/img/posts/none.jpeg
 # keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
 permalink: /blog/added-multi-author-support/
