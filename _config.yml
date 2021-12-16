@@ -49,16 +49,16 @@ author_work_experiences:
 author_education_details:
               - college_logo: umd.png
                 college_name: University Of Marryland
-                college_url: https://mit.org
+                college_url: https://https://www.umd.edu/
                 college_degree: Robotics Engineering
                 description: Master of Engineering
                 visibility: true
 
-              - college_logo: umd.png
-                college_name: University Of Marryland
-                college_url: https://mit.org
-                college_degree: Robotics Engineering
-                description: Master of Engineering
+              - college_logo: srm.png
+                college_name: SRM Institute of Science and Technology
+                college_url: https://www.srmist.edu.in/
+                college_degree: Mechatronics Engineering
+                description: Bachelor of Technology
                 visibility: true
 
 # Projects
